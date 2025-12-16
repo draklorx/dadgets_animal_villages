@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dadgets_animal_villages:villages/plains/streets/urban/cross_roads",
+        "processors": "dadgets_animal_villages:villages/plains",
+        "projection": "rigid"
+      },
+      "weight": 4
+    }
+  ],
+  "fallback": "minecraft:village/plains/terminators"
+}

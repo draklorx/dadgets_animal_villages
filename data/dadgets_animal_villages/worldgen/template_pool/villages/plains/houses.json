@@ -1,0 +1,173 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/large_rectangle_wide_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/large_rectangle_gabled",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/large_rectangle_wide_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/large_rectangle_barn",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/large_rectangle_narrow_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/large_rectangle_gabled",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/large_rectangle_narrow_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/large_rectangle_barn",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/small_wide_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/small_rectangle_gabled",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/small_wide_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/small_rectangle_barn",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/small_narrow_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/small_rectangle_gabled",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:list_pool_element",
+        "projection": "rigid",
+        "elements": [
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/frames/small_narrow_porch",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          },
+          {
+            "element_type": "minecraft:single_pool_element",
+            "location": "dadgets_animal_villages:villages/plains/rooves/small_rectangle_barn",
+            "projection": "rigid",
+            "processors": "dadgets_animal_villages:villages/plains"
+          }
+        ]
+      },
+      "weight": 4
+    }
+  ],
+  "fallback": "dadgets_animal_villages:villages/plains/streets/streets4"
+}

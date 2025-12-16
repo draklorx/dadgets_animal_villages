@@ -1,0 +1,14 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dadgets_animal_villages:villages/plains/streets/rural/end",
+        "processors": "dadgets_animal_villages:villages/plains",
+        "projection": "terrain_matching"
+      },
+      "weight": 4
+    }
+  ],
+  "fallback": "minecraft:empty"
+}
