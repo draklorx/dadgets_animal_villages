@@ -8,7 +8,25 @@
         "projection": "rigid"
       },
       "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dadgets_animal_villages:villages/plains/porches/short_porch2",
+        "processors": "dadgets_animal_villages:villages/plains",
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dadgets_animal_villages:villages/plains/porches/short_porch3",
+        "processors": "dadgets_animal_villages:villages/plains",
+        "projection": "rigid"
+      },
+      "weight": 4
     }
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "dadgets_animal_villages:villages/plains/porches/tiny"
 }

@@ -3,8 +3,8 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "dadgets_animal_villages:villages/plains/rooms/living_room_narrow_porch1",
-        "processors": "minecraft:empty",
+        "location": "dadgets_animal_villages:villages/plains/chimneys/small",
+        "processors": "dadgets_animal_villages:villages/plains",
         "projection": "rigid"
       },
       "weight": 4

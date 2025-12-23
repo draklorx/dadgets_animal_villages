@@ -12,12 +12,12 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "dadgets_animal_villages:villages/plains/walls/long_tower",
+        "location": "dadgets_animal_villages:villages/plains/walls/long_wall2",
         "processors": "dadgets_animal_villages:villages/plains",
         "projection": "rigid"
       },
-      "weight": 1
+      "weight": 4
     }
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "dadgets_animal_villages:villages/plains/walls/small"
 }

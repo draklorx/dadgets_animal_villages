@@ -4,6 +4,380 @@
     "rules": [
       {
         "location_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:leaves"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:azalea_leaves",
+          "Properties": {
+            "persistent": "true"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:leaves"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dark_oak_slab"
+        },
+        "output_state": {
+          "Name": "minecraft:azalea_leaves",
+          "Properties": {
+            "persistent": "true"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:leaves"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dark_oak_stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:azalea_leaves",
+          "Properties": {
+            "persistent": "true"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:leaves"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_slab"
+        },
+        "output_state": {
+          "Name": "minecraft:azalea_leaves",
+          "Properties": {
+            "persistent": "true"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:pale_oak_slab"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:pale_oak_slab"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_pale_oak_log"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_pale_oak_log"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_pale_oak_log"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_pale_oak_log"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_pale_oak_log"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:planks"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_pale_oak_log"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_pale_oak_wood"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_pale_oak_wood"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_pale_oak_wood"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_pale_oak_wood"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_pale_oak_wood"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:planks"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_pale_oak_wood"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:pale_oak_planks"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:pale_oak_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:pale_oak_planks"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:pale_oak_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:pale_oak_planks"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:planks"
+        },
+        "output_state": {
+          "Name": "minecraft:pale_oak_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_planks"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:spruce_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_planks"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:spruce_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_planks"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:planks"
+        },
+        "output_state": {
+          "Name": "minecraft:spruce_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_oak_log"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_oak_log"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_oak_log"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_oak_log"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stripped_oak_log"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:planks"
+        },
+        "output_state": {
+          "Name": "minecraft:stripped_oak_log"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dark_oak_stairs"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:dark_oak_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dark_oak_stairs"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:dark_oak_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:dark_oak_stairs"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:planks"
+        },
+        "output_state": {
+          "Name": "minecraft:dark_oak_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_stairs"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:stairs"
+        },
+        "output_state": {
+          "Name": "minecraft:spruce_planks"
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:spruce_stairs"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:tag_match",
+          "tag": "minecraft:slabs"
+        },
+        "output_state": {
+          "Name": "minecraft:spruce_planks"
+        }
+      }
+    ]
+  },
+  {
+    "processor_type": "minecraft:rule",
+    "rules": [
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:oak_leaves",
+          "probability": 0.5
+        },
+        "output_state": {
+          "Name": "minecraft:azalea_leaves",
+          "Properties": {
+            "persistent": "true"
+          }
+        }
+      },
+      {
+        "location_predicate": {
+          "predicate_type": "minecraft:always_true"
+        },
+        "input_predicate": {
+          "predicate_type": "minecraft:random_block_match",
+          "block": "minecraft:azalea_leaves",
+          "probability": 0.5
+        },
+        "output_state": {
+          "Name": "minecraft:oak_leaves",
+          "Properties": {
+            "persistent": "true"
+          }
+        }
+      },
+      {
+        "location_predicate": {
           "predicate_type": "minecraft:always_true"
         },
         "input_predicate": {

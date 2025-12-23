@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "dadgets_animal_villages:villages/plains/rooves/roof_tower1",
+        "location": "dadgets_animal_villages:villages/plains/rooves/tower1",
         "processors": "dadgets_animal_villages:villages/plains",
         "projection": "rigid"
       },
@@ -12,7 +12,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "dadgets_animal_villages:villages/plains/rooves/roof_tower2",
+        "location": "dadgets_animal_villages:villages/plains/rooves/tower2",
         "processors": "dadgets_animal_villages:villages/plains",
         "projection": "rigid"
       },
@@ -21,12 +21,12 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "dadgets_animal_villages:villages/plains/rooves/roof_tower3",
+        "location": "dadgets_animal_villages:villages/plains/rooves/tower3",
         "processors": "dadgets_animal_villages:villages/plains",
         "projection": "rigid"
       },
       "weight": 1
     }
   ],
-  "fallback": "minecraft:empty"
+  "fallback": "dadgets_animal_villages:villages/plains/rooves/tower_failover"
 }

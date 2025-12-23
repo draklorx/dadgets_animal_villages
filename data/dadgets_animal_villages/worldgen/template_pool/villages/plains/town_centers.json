@@ -3,7 +3,7 @@
     {
       "element": {
         "element_type": "minecraft:single_pool_element",
-        "location": "dadgets_animal_villages:villages/plains/streets/urban/cross_roads",
+        "location": "dadgets_animal_villages:villages/plains/town_centers/gazebo",
         "processors": "dadgets_animal_villages:villages/plains",
         "projection": "rigid"
       },

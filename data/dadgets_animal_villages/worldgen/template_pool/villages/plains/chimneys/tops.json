@@ -1,0 +1,23 @@
+{
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dadgets_animal_villages:villages/plains/chimneys/top1",
+        "processors": "dadgets_animal_villages:villages/plains",
+        "projection": "rigid"
+      },
+      "weight": 4
+    },
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "dadgets_animal_villages:villages/plains/chimneys/top2",
+        "processors": "dadgets_animal_villages:villages/plains",
+        "projection": "rigid"
+      },
+      "weight": 4
+    }
+  ],
+  "fallback": "dadgets_animal_villages:villages/plains/chimneys/small_tops"
+}
